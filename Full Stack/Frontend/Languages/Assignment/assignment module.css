@@ -1,0 +1,9 @@
+.assignment1 {
+    width: 682px;
+    height: 425px;
+    background-image: url(/public/assignment-1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  
